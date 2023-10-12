@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/Esword618/unioffice/color"
+	"github.com/NekrozAriel/unioffice/color"
 
-	"github.com/Esword618/unioffice/schema/soo/sml"
+	"github.com/NekrozAriel/unioffice/schema/soo/sml"
 )
 
 type PatternFill struct {

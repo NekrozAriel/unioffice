@@ -1,12 +1,12 @@
 package unioffice_test
 
 import (
-	"github.com/Esword618/unioffice/document"
-	"github.com/Esword618/unioffice/spreadsheet"
+	"github.com/NekrozAriel/unioffice/document"
+	"github.com/NekrozAriel/unioffice/spreadsheet"
 )
 
 func Example_document() {
-	// see the github.com/Esword618/unioffice/document documentation or _examples/document
+	// see the github.com/NekrozAriel/unioffice/document documentation or _examples/document
 	// for more examples
 	doc := document.New()
 	doc.AddParagraph().AddRun().AddText("Hello World!")
@@ -14,7 +14,7 @@ func Example_document() {
 }
 
 func Example_spreadsheeet() {
-	// see the github.com/Esword618/unioffice/spreadsheet documentation or _examples/spreadsheet
+	// see the github.com/NekrozAriel/unioffice/spreadsheet documentation or _examples/spreadsheet
 	// for more examples
 	ss := spreadsheet.New()
 	sheet := ss.AddSheet()

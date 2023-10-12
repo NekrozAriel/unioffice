@@ -10,9 +10,9 @@ package spreadsheet
 import (
 	"runtime"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/schema/soo/sml"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/schema/soo/sml"
 )
 
 // New constructs a new workbook.

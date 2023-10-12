@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/color"
-	"github.com/Esword618/unioffice/schema/soo/sml"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/color"
+	"github.com/NekrozAriel/unioffice/schema/soo/sml"
 )
 
 // Border is a cell border configuraton.

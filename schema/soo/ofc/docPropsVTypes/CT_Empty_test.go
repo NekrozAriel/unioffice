@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/ofc/docPropsVTypes"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/docPropsVTypes"
 )
 
 func TestCT_EmptyConstructor(t *testing.T) {

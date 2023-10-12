@@ -10,8 +10,8 @@ package formula
 import (
 	"fmt"
 
-	"github.com/Esword618/unioffice/spreadsheet/reference"
-	"github.com/Esword618/unioffice/spreadsheet/update"
+	"github.com/NekrozAriel/unioffice/spreadsheet/reference"
+	"github.com/NekrozAriel/unioffice/spreadsheet/update"
 )
 
 // Range is a range expression that when evaluated returns a list of Results.

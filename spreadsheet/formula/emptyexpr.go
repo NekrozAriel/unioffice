@@ -7,7 +7,7 @@
 
 package formula
 
-import "github.com/Esword618/unioffice/spreadsheet/update"
+import "github.com/NekrozAriel/unioffice/spreadsheet/update"
 
 // EmptyExpr is an empty expression.
 type EmptyExpr struct {

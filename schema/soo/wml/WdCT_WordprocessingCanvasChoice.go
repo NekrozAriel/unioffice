@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/soo/dml/picture"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml/picture"
 )
 
 type WdCT_WordprocessingCanvasChoice struct {

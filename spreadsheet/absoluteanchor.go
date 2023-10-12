@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/measurement"
-	sd "github.com/Esword618/unioffice/schema/soo/dml/spreadsheetDrawing"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/measurement"
+	sd "github.com/NekrozAriel/unioffice/schema/soo/dml/spreadsheetDrawing"
 )
 
 // AbsoluteAnchor has a fixed top-left corner in distance units as well as a

@@ -7,7 +7,7 @@
 
 package formula
 
-import "github.com/Esword618/unioffice/spreadsheet/update"
+import "github.com/NekrozAriel/unioffice/spreadsheet/update"
 
 // SheetPrefixExpr is a reference to a sheet like Sheet1! (reference to sheet 'Sheet1').
 type SheetPrefixExpr struct {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/ofc/math"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/math"
 )
 
 func TestEG_ScriptStyleConstructor(t *testing.T) {
