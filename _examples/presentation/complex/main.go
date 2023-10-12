@@ -4,12 +4,12 @@ package main
 import (
 	"log"
 
-	"github.com/Esword618/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
 
-	"github.com/Esword618/unioffice/color"
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/measurement"
-	"github.com/Esword618/unioffice/presentation"
+	"github.com/NekrozAriel/unioffice/color"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/measurement"
+	"github.com/NekrozAriel/unioffice/presentation"
 )
 
 const lorem = "Lorem ipsum dolor sit amet."

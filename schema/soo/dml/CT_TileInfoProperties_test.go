@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
 )
 
 func TestCT_TileInfoPropertiesConstructor(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Spacing struct {
