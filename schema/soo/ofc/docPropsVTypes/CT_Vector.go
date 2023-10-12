@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Vector struct {

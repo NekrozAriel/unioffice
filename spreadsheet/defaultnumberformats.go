@@ -7,7 +7,7 @@
 
 package spreadsheet
 
-import "github.com/Esword618/unioffice/schema/soo/sml"
+import "github.com/NekrozAriel/unioffice/schema/soo/sml"
 
 // StandardFormat is a standard ECMA 376 number format.
 //

@@ -10,11 +10,11 @@ package vmldrawing
 import (
 	"fmt"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/schema/urn/schemas_microsoft_com/office/excel"
 
-	st "github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
-	vml "github.com/Esword618/unioffice/schema/urn/schemas_microsoft_com/vml"
+	st "github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes"
+	vml "github.com/NekrozAriel/unioffice/schema/urn/schemas_microsoft_com/vml"
 )
 
 // NewCommentDrawing constructs a new comment drawing.

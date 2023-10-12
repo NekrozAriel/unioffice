@@ -5,11 +5,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	"github.com/Esword618/unioffice/schema/soo/pml"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice/schema/soo/pml"
 
-	"github.com/Esword618/unioffice/presentation"
+	"github.com/NekrozAriel/unioffice/presentation"
 )
 
 func main() {

@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
 )
 
 type CT_Comment struct {

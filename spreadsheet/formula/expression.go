@@ -7,7 +7,7 @@
 
 package formula
 
-import "github.com/Esword618/unioffice/spreadsheet/update"
+import "github.com/NekrozAriel/unioffice/spreadsheet/update"
 
 type Expression interface {
 	Eval(ctx Context, ev Evaluator) Result

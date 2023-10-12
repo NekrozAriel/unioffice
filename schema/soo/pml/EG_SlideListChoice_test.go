@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/pml"
+	"github.com/NekrozAriel/unioffice/schema/soo/pml"
 )
 
 func TestEG_SlideListChoiceConstructor(t *testing.T) {
