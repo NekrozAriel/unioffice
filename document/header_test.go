@@ -10,7 +10,7 @@ package document_test
 import (
 	"testing"
 
-	"github.com/Esword618/unioffice/document"
+	"github.com/NekrozAriel/unioffice/document"
 )
 
 func TestHeaderRemoveParagraph(t *testing.T) {

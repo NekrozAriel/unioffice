@@ -8,7 +8,7 @@
 package document
 
 import (
-	"github.com/Esword618/unioffice/schema/soo/wml"
+	"github.com/NekrozAriel/unioffice/schema/soo/wml"
 )
 
 // FormFieldType is the type of the form field.

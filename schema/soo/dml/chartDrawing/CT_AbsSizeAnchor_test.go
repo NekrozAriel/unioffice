@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml/chartDrawing"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml/chartDrawing"
 )
 
 func TestCT_AbsSizeAnchorConstructor(t *testing.T) {

@@ -10,7 +10,7 @@ package algo_test
 import (
 	"testing"
 
-	"github.com/Esword618/unioffice/algo"
+	"github.com/NekrozAriel/unioffice/algo"
 )
 
 func TestSort(t *testing.T) {

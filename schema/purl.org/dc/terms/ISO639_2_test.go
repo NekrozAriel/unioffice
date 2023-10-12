@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/purl.org/dc/terms"
+	"github.com/NekrozAriel/unioffice/schema/purl.org/dc/terms"
 )
 
 func TestISO639_2Constructor(t *testing.T) {

@@ -12,7 +12,7 @@ package chart
 import (
 	"encoding/xml"
 
-	"github.com/Esword618/unioffice"
+	"github.com/NekrozAriel/unioffice"
 )
 
 type CT_LegendEntry struct {

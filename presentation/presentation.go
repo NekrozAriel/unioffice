@@ -21,16 +21,16 @@ import (
 	"os"
 	"path"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/common/license"
-	"github.com/Esword618/unioffice/measurement"
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	crt "github.com/Esword618/unioffice/schema/soo/dml/chart"
-	"github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/Esword618/unioffice/schema/soo/pkg/relationships"
-	"github.com/Esword618/unioffice/schema/soo/pml"
-	"github.com/Esword618/unioffice/zippkg"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/common/license"
+	"github.com/NekrozAriel/unioffice/measurement"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
+	crt "github.com/NekrozAriel/unioffice/schema/soo/dml/chart"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/NekrozAriel/unioffice/schema/soo/pkg/relationships"
+	"github.com/NekrozAriel/unioffice/schema/soo/pml"
+	"github.com/NekrozAriel/unioffice/zippkg"
 )
 
 // Presentation is the a presentation base document.

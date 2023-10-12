@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/document"
-	"github.com/Esword618/unioffice/schema/soo/ofc/docPropsVTypes"
-	"github.com/Esword618/unioffice/testhelper"
-	"github.com/Esword618/unioffice/zippkg"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/document"
+	"github.com/NekrozAriel/unioffice/schema/soo/ofc/docPropsVTypes"
+	"github.com/NekrozAriel/unioffice/testhelper"
+	"github.com/NekrozAriel/unioffice/zippkg"
 )
 
 func TestMarshalCustomProperties(t *testing.T) {

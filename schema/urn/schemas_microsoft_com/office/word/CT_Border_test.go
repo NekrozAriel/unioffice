@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/NekrozAriel/unioffice/schema/urn/schemas_microsoft_com/office/word"
 )
 
 func TestCT_BorderConstructor(t *testing.T) {

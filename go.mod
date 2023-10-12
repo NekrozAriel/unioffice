@@ -1,3 +1,3 @@
-module github.com/Esword618/unioffice
+module github.com/NekrozAriel/unioffice
 
 go 1.12

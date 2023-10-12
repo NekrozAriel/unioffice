@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml/diagram"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml/diagram"
 )
 
 func TestCT_StyleDefinitionConstructor(t *testing.T) {

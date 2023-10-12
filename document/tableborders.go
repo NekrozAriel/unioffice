@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/color"
-	"github.com/Esword618/unioffice/measurement"
-	"github.com/Esword618/unioffice/schema/soo/wml"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/color"
+	"github.com/NekrozAriel/unioffice/measurement"
+	"github.com/NekrozAriel/unioffice/schema/soo/wml"
 )
 
 // TableBorders allows manipulation of borders on a table.

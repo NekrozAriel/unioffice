@@ -20,16 +20,16 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/common/license"
-	"github.com/Esword618/unioffice/measurement"
-	"github.com/Esword618/unioffice/zippkg"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/common/license"
+	"github.com/NekrozAriel/unioffice/measurement"
+	"github.com/NekrozAriel/unioffice/zippkg"
 
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	st "github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/Esword618/unioffice/schema/soo/pkg/relationships"
-	"github.com/Esword618/unioffice/schema/soo/wml"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
+	st "github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/NekrozAriel/unioffice/schema/soo/pkg/relationships"
+	"github.com/NekrozAriel/unioffice/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx
@@ -1152,14 +1152,14 @@ func (d Document) Bookmarks() []Bookmark {
 }
 
 // SetConformance sets conformance attribute of the document
-// as one of these values from github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes:
+// as one of these values from github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes:
 // ST_ConformanceClassUnset, ST_ConformanceClassStrict or ST_ConformanceClassTransitional.
 func (d Document) SetConformance(conformanceAttr st.ST_ConformanceClass) {
 	d.x.ConformanceAttr = conformanceAttr
 }
 
 // SetStrict is a shortcut for document.SetConformance,
-// as one of these values from github.com/Esword618/unioffice/schema/soo/ofc/sharedTypes:
+// as one of these values from github.com/NekrozAriel/unioffice/schema/soo/ofc/sharedTypes:
 // ST_ConformanceClassUnset, ST_ConformanceClassStrict or ST_ConformanceClassTransitional.
 func (d Document) SetStrict(strict bool) {
 	if strict {

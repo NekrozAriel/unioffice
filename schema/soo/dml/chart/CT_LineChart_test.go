@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/Esword618/unioffice/schema/soo/dml/chart"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml/chart"
 )
 
 func TestCT_LineChartConstructor(t *testing.T) {

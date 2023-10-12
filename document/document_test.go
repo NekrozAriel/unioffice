@@ -13,10 +13,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Esword618/unioffice/common"
-	"github.com/Esword618/unioffice/document"
-	"github.com/Esword618/unioffice/schema/soo/wml"
-	"github.com/Esword618/unioffice/testhelper"
+	"github.com/NekrozAriel/unioffice/common"
+	"github.com/NekrozAriel/unioffice/document"
+	"github.com/NekrozAriel/unioffice/schema/soo/wml"
+	"github.com/NekrozAriel/unioffice/testhelper"
 )
 
 func TestSimpleDoc(t *testing.T) {

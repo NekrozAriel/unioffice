@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/Esword618/unioffice/schema/soo/wml"
+import "github.com/NekrozAriel/unioffice/schema/soo/wml"
 
 // StructuredDocumentTag are a tagged bit of content in a document.
 type StructuredDocumentTag struct {

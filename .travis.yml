@@ -7,22 +7,22 @@ go:
 
 install:
         - mkdir -p $HOME/gopath/src/unidoc/
-        - ln -s $HOME/gopath/src/github.com/Esword618/unioffice $HOME/gopath/src/github.com/Esword618/unioffice
+        - ln -s $HOME/gopath/src/github.com/NekrozAriel/unioffice $HOME/gopath/src/github.com/NekrozAriel/unioffice
         - mkdir -p $HOME/dotnet
         - cd $HOME/dotnet
         - wget https://download.visualstudio.microsoft.com/download/pr/8db2b522-7fa2-4903-97ec-d6d04d297a01/f467006b9098c2de256e40d2e2f36fea/dotnet-sdk-3.1.301-linux-x64.tar.gz
         - tar -xf dotnet-sdk-3.1.301-linux-x64.tar.gz
-        - cd $GOPATH/src/github.com/Esword618/unioffice/.travis
+        - cd $GOPATH/src/github.com/NekrozAriel/unioffice/.travis
         - unzip validator.zip
         - cd openxml-validator
         - $HOME/dotnet/dotnet build
 
 script:
-        - cd $HOME/gopath/src/github.com/Esword618/unioffice
+        - cd $HOME/gopath/src/github.com/NekrozAriel/unioffice
         - ./build-examples.sh
         - cd .travis
         - ./validate-examples.sh
-        - cd $HOME/gopath/src/github.com/Esword618/unioffice
+        - cd $HOME/gopath/src/github.com/NekrozAriel/unioffice
         - go vet ./...
         - go test ./...
 

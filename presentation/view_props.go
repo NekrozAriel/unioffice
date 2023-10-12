@@ -8,8 +8,8 @@
 package presentation
 
 import (
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	"github.com/Esword618/unioffice/schema/soo/pml"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice/schema/soo/pml"
 )
 
 // ViewProperties contains presentation specific properties.

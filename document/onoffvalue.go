@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/Esword618/unioffice/schema/soo/wml"
+import "github.com/NekrozAriel/unioffice/schema/soo/wml"
 
 // OnOffValue represents an on/off value that can also be unset
 type OnOffValue byte

@@ -10,10 +10,10 @@ package presentation
 import (
 	"errors"
 
-	"github.com/Esword618/unioffice"
-	"github.com/Esword618/unioffice/drawing"
-	"github.com/Esword618/unioffice/schema/soo/dml"
-	"github.com/Esword618/unioffice/schema/soo/pml"
+	"github.com/NekrozAriel/unioffice"
+	"github.com/NekrozAriel/unioffice/drawing"
+	"github.com/NekrozAriel/unioffice/schema/soo/dml"
+	"github.com/NekrozAriel/unioffice/schema/soo/pml"
 )
 
 // PlaceHolder is a place holder from a slide.
