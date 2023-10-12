@@ -292,7 +292,7 @@ func (wb *Workbook) Save(w io.Writer) error {
 		for _, sheet := range wb.Sheets() {
 			row1 := sheet.Row(1)
 			row1.SetHeight(50)
-			a1 := row1.Cell("A")
+			// a1 := row1.Cell("A")
 
 			//rt := a1.SetRichTextString()
 			//run := rt.AddRun()
